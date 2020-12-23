@@ -1,4 +1,4 @@
-         Hi 👋
+         Hello 👋
 
 > Let's share new ideas:
 ### [![GitHub Laura_Daniel](https://img.shields.io/github/followers/ProfLaura?label=Follow%20Me&style=flat-square)](https://github.com/ProfLaura)  <img src="https://visitor-badge.laobi.icu/badge?page_id=ProfLaura-Read.md"> 
@@ -22,9 +22,6 @@ Here is my progress:
   <details><summary>:zap: My Annual Contribution Stats</summary>
 <img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=ProfLaura&show_icons=true&hide_border=true" />
  <img align="" alt="Laura's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfLaura&layout=compact"/></details>
- <details><summary>📈 My Overall GitHub Stats</summary>
-<img width="300" src="https://metrics.lecoq.io/ProfLaura" alt="Github Metrics">
- <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=ProfLaura" alt="Github Streak Stats"></details>
  </p>
  
 
