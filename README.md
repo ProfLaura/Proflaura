@@ -5,8 +5,7 @@
 
     😃 Hello Buddies 👋🏻,
 <p font-family: 'verdana'>I am Laura Daniel, I’m a Full time Developer
-and I have been in IT Profession for over 8+ Years. Most of my
-projects are built in R, SPSS, , MATLAB, P5.js and Python.
+and I have been in IT Profession for over 8+ Years. Most of my projects are built in R, SPSS, MATLAB, P5.js and Python.
 </p>
 Here is my progress:
 
