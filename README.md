@@ -11,13 +11,13 @@
     𝓡𝓮𝓪𝓬𝓱 𝓜𝓮
 
 <p align = ""
-   <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="my pictures/git.png" />] [<a href="https://committers.top/kenya" target="_blank" rel="noreferrer">Ranking</a>] **#?** 🙌
+   <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="git.png" />] [<a href="https://committers.top/kenya" target="_blank" rel="noreferrer">Ranking</a>] **#?** 🙌
 </p>
 <p align = ""
    <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />] [<a href="https://www.linkedin.com/in/daniel-muthama-577b211a5/" target="_blank" rel="noreferrer">Hire Me</a>] **💻** 🙌
 </p>
 <p align = ""
-   <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="my pictures/dti.jpeg" />] [<a href="https://danielmuthama.github.io/my_portfolio/" target="_blank" rel="noreferrer">Prof. Portfolio</a>] **📖** 🙌
+   <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="dti.jpeg" />] [<a href="https://danielmuthama.github.io/my_portfolio/" target="_blank" rel="noreferrer">Prof. Portfolio</a>] **📖** 🙌
 </p>
 
 
@@ -97,11 +97,11 @@
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" />
-<img align="" alt="Express" width="26px" src="my pictures/download.png" />
+<img align="" alt="Express" width="26px" src="download.png" />
 <img align="left" alt="Asp.net" width="26px" src="https://www.natmarchand.fr/wp-content/uploads/2018/05/asp.net_.jpg" />
-<img align="left" alt="flask" width="26px" src="my pictures/images.png" />
-<img align="left" alt="Python" width="26px" src="my pictures/download (1).png" />
-<img align="left" alt="mongo" width="26px" src="my pictures/Mongo.png" />
+<img align="left" alt="flask" width="26px" src="images.png" />
+<img align="left" alt="Python" width="26px" src="download (1).png" />
+<img align="left" alt="mongo" width="26px" src="Mongo.png" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-svg-vector.svg" />
 <img align="" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
